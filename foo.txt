@@ -1,0 +1,314 @@
+1. AI Giants
+2. Microsoft
+3. Enterprise leader in AI
+4. Amazon Web Services (AWS)
+5. Top-tier managed services for cloud and AI
+6. Google
+7. Leading generative AI for technical and non-technical audiences
+8. IBM
+9. Founder of Watson and watsonx AI solutions
+10. Nvidia
+11. Leading provider of GPUs and other AI infrastructure
+12. Meta
+13. Embedded AI assistance in social media apps
+14. Baidu
+15. Chinese innovator in AI and quantum computing
+16. Oracle
+17. Leader in cloud-based AI support
+18. Alibaba
+19. Cloud leader and innovator in APAC region
+20. AI Pioneers
+21. OpenAI
+22. Founder of ChatGPT
+23. C3.ai
+24. Industry-focused AI solutions and services
+25. H2O.ai
+26. Solutions provider for generative and predictive AI
+27. DataRobot
+28. Cloud-agnostic AI and data solutions
+29. Snowflake
+30. Next-gen data warehouse and AI data cloud vendor
+31. Dataiku
+32. Low-code/no-code AI/ML model development platform
+33. Altair (RapidMiner)
+34. End-to-end data analytics and AI workflows
+35. Domino Data Lab
+36. Unified AI orchestration solution provider
+37. Databricks
+38. AI-optimized data lakehouses and infrastructure
+39. Adobe
+40. AI solutions for graphic designers and creatives
+41. Alteryx
+42. Drag-and-drop approach to data and AI modeling
+43. Inflection AI
+44. A conversational approach to generative content
+45. Scale AI
+46. Leading provider of AI for public sector use cases
+47. Arista Networks
+48. Leader in AI networking solutions
+49. Cloudera
+50. Hybrid, cloud-agnostic data platform
+51. Accubits
+52. Leader in blockchain, Web3, and metaverse technologies
+53. AI Visionaries
+54. Anthropic
+55. Generative AI leader committed to constitutional AI
+56. Glean
+57. Leader in generative enterprise search technology
+58. Adept
+59. Commitment to general intelligence AI assistants
+60. Synthesia
+61. Generative AI video platform with AI avatars
+62. Ironclad
+63. AI for contract lifecycle management
+64. Cohere
+65. Leading models with accessible AI playground
+66. Abacus.ai
+67. AI technology used to build AI technology
+68. Gong
+69. AI-powered revenue, service, and sales intelligence
+70. Runway
+71. Text-to-video and video-to-video content generation platform
+72. Openstream.ai
+73. Highly configurable conversational AI
+74. Samsara
+75. AI-powered driving assistance and analytics
+76. Moveworks
+77. AI for IT and support workflows
+78. Synthesis AI
+79. AI for multiple computer vision scenarios
+80. Insitro
+81. Multidisciplinary, AI-powered approach to drug discovery
+82. Eightfold AI
+83. AI solution for recruiters and talent management
+84. InVideo
+85. Customizable AI videos for social media
+86. FarmWise
+87. AI-powered farming technology innovator
+88. Generative AI Companies
+89. Tabnine
+90. Generative AI coding assistant
+91. Midjourney
+92. AI-powered image generation and editing solutions
+93. Infinity AI
+94. Synthetic-data-as-a-service provider
+95. Notion
+96. Embedded AI assistance in project management platform
+97. Podcast.ai (PlayHT)
+98. AI for automated podcast creation
+99. Hugging Face
+100. Extensive AI modeling community and resource library
+101. Stability AI
+102. Multimodal open AI model developer
+103. MOSTLY AI
+104. Synthetic data generation for finance sector
+105. Syntho
+106. Synthetic data generation for digital twins
+107. Jasper
+108. Generative AI platform for marketing content creation
+109. Biomatter
+110. Generative AI for new protein creation
+111. You.com
+112. User-friendly, customizable search solution
+113. Osmo
+114. AI-powered sense of smell for computers
+115. AI Enterprise Majors
+116. Salesforce
+117. Einstein AI for CRM users
+118. BMC Software
+119. Automated AI-driven service management (AISM)
+120. HPE
+121. Rapid AI deployment and enterprise scalability provider
+122. Dell Technologies
+123. Services and infrastructure provider for AI technology
+124. SAP
+125. Enterprise-ready, compliant AI applications
+126. ServiceNow
+127. AI-powered IT service management solutions
+128. Broadcom
+129. Enterprise security innovator with growing AI footprint
+130. SAS
+131. AI with strong analytics and BI components
+132. Rockwell Automation
+133. Democratized AI industrial automation
+134. Informatica
+135. Unified metadata intelligence through CLAIRE
+136. Infosys
+137. Leader in intelligent, AI-powered automation and RPA
+138. AI Robotic Process Automation Companies
+139. UiPath
+140. Leader in the RPA market
+141. Nuro
+142. AI-powered autonomous vehicles
+143. Automation Anywhere
+144. Democratized approach to enterprise RPA
+145. Anduril
+146. Autonomous vehicles for threat defense
+147. SS&C Blue Prism
+148. RPA for ML decisioning and process orchestration
+149. EdgeVerve
+150. AI and RPA-powered digital transformation across industries
+151. Shield AI
+152. AI pilot technology innovator
+153. WorkFusion
+154. RPA for digital staffer development
+155. NICE
+156. RPA for intelligent call center and customer interactions
+157. Pega
+158. RPA that predicts customer activity proactively
+159. Conversational AI Companies
+160. Gridspace
+161. Generative AI for customer-focused virtual agents
+162. Kore.ai
+163. DIY AI chatbots and virtual assistants
+164. Cognigy
+165. AI-powered conversation agent coaching and optimization
+166. Amelia
+167. Conversational AI and knowledge bases powered by NLU
+168. OneReach.ai
+169. Creator of Intelligent Digital Workers
+170. Avaamo
+171. Generative AI agents for patient experience and CX
+172. Yellow.ai
+173. Accessible prebuilt and third-party conversational models
+174. boost.ai
+175. Conversational AI company with hybrid NLU tech
+176. Healthcare AI Companies
+177. PathAI
+178. Pathology-focused AI company
+179. Viz.ai
+180. AI platform for patient care coordination
+181. Paige AI
+182. AI imaging technology for cancer diagnostics
+183. Insilico Medicine
+184. AI pharmaceutical product development and design
+185. Medtronic
+186. AI-powered polyp detection and diagnosis
+187. Enlitic
+188. AI-powered medical data management
+189. Deepcell
+190. AI for cell examination and classification
+191. Activ Surgical
+192. AI-powered surgical insights
+193. Tempus Radiology
+194. AI insights for radiology images
+195. Etcembly
+196. ML-driven immunology and immunotherapy engineering
+197. Corti
+198. AI call center solution for healthcare and telemedicine
+199. Butterfly Network
+200. Various AI health assessment and ultrasound technologies
+201. Owkin
+202. AI predictive analytics for drug development
+203. GE HealthCare
+204. AI orchestration for healthcare IT
+205. Stryker
+206. AI assistance in medical procedures
+207. Cleerly
+208. AI for coronary health issue detection
+209. ClosedLoop
+210. AI for healthcare administration and admission management
+211. Oncora Medical
+212. AI healthcare digital assistant solutions provider
+213. Atomwise
+214. AI for more efficient drug development pipelines
+215. Financial Services AI Companies
+216. Intuit
+217. Financial assistant technology for business leaders
+218. Stripe
+219. Partnership with OpenAI to improve document and content processing
+220. Capital One
+221. AI for loan, fraud, and customer service management
+222. Brighterion (Mastercard)
+223. AI solutions developer for financial services companies
+224. Numerai
+225. AI-powered stock market prediction platform
+226. Skyline AI (JLL)
+227. AI for intelligent real estate insights
+228. Ocrolus
+229. Automated financial document analysis solutions
+230. AlphaSense
+231. AI for finance intelligence in public and private companies
+232. Zest AI
+233. AI for borrower data research optimization
+234. Signifyd
+235. AI for fraud detection and mitigation
+236. HighRadius
+237. Machine learning technology for accounts receivable automation
+238. DataVisor
+239. AI for fraud mitigation across transaction types
+240. Education AI Companies
+241. Carnegie Learning
+242. AI education app for mathematics
+243. CENTURY
+244. Algorithmic matching for student learning programs
+245. ELSA
+246. AI for learning English as a non-native speaker
+247. Kidaptive (McGraw Hill)
+248. AI-driven child development and learning app
+249. Amira Learning
+250. AI for gamified reading and literacy training
+251. Duolingo
+252. OpenAI-powered language-learning technology
+253. Cognii
+254. AI for creative student assessment formats
+255. Querium
+256. AI tutor for advanced STEM projects
+257. Squirrel AI Learning
+258. AI for adaptive, personalized learning programs
+259. Cybersecurity AI Companies
+260. CrowdStrike
+261. Managed and comprehensive XDR solution
+262. Zscaler
+263. AI-powered protection of zero-trust architecture
+264. SentinelOne
+265. Comprehensive AI endpoint, cloud, and identity security solutions
+266. Abnormal Security
+267. AI intelligence for employee security practices
+268. Vectra AI
+269. AI for multi-mode cybersecurity measures
+270. Sophos
+271. Longstanding leader and innovator in AI-powered cybersecurity
+272. Fortinet
+273. AI for automated SOC optimization
+274. Palo Alto Networks
+275. AI-human partnership for security observability taskwork
+276. Check Point
+277. AI for phishing and DNS threat detection
+278. SecurityScorecard
+279. Democratized risk management recommendations
+280. Cylance AI (BlackBerry)
+281. AI security specialized in mobile IoT
+282. BigPanda
+283. Machine learning and automation for improved observability
+284. Retail AI Companies
+285. Shelf Engine
+286. AI for stock and inventory optimization
+287. Deep North
+288. Computer vision and AI for storefront monitoring
+289. Lowe’s
+290. Partnership with Nvidia to create more data-driven retail processes
+291. Bloomreach
+292. AI-driven search and merchandising
+293. Accenture
+294. Platform for dynamic merchandising and other retail optimization opportunities
+295. Standard AI
+296. AI for autonomous retail experiences
+297. Lucyd Eyewear
+298. Smart glasses that can hear
+299. Veesual
+300. AI-powered virtual-try-on app
+301. Companion
+302. AI companion for pets
+303. AI Industry Organizations
+304. Association for the Advancement of Artificial Intelligence
+305. AI4Diversity
+306. AI Infrastructure Alliance
+307. Partnership on AI
+308. Black in AI
+309. Machine Intelligence Research Institute (MIRI)
+310. AI Now Institute
+311. The Alan Turing Institute
+312. The Rockefeller Foundation
+313. Bottom Line: AI Companies
+314. To learn about AI certifications that can advance your career, see our guide, 30 Top AI Certifications.

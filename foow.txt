@@ -1,0 +1,154 @@
+1. Microsoft
+2. Amazon Web Services (AWS)
+3. Google
+4. IBM
+5. Nvidia
+6. Meta
+7. Baidu
+8. Oracle
+9. Alibaba
+10. OpenAI
+11. C3.ai
+12. H2O.ai
+13. DataRobot
+14. Snowflake
+15. Dataiku
+16. Altair (RapidMiner)
+17. Domino Data Lab
+18. Databricks
+19. Adobe
+20. Alteryx
+21. Inflection AI
+22. Scale AI
+23. Arista Networks
+24. Cloudera
+25. Accubits
+26. Anthropic
+27. Glean
+28. Adept
+29. Synthesia
+30. Ironclad
+31. Cohere
+32. Abacus.ai
+33. Gong
+34. Runway
+35. Openstream.ai
+36. Samsara
+37. Moveworks
+38. Synthesis AI
+39. Insitro
+40. Eightfold AI
+41. InVideo
+42. FarmWise
+43. Tabnine
+44. Midjourney
+45. Infinity AI
+46. Notion
+47. Podcast.ai (PlayHT)
+48. Hugging Face
+49. Stability AI
+50. MOSTLY AI
+51. Syntho
+52. Jasper
+53. Biomatter
+54. You.com
+55. Osmo
+56. Salesforce
+57. BMC Software
+58. HPE
+59. Dell Technologies
+60. SAP
+61. ServiceNow
+62. Broadcom
+63. SAS
+64. Rockwell Automation
+65. Informatica
+66. Infosys
+67. UiPath
+68. Nuro
+69. Automation Anywhere
+70. Anduril
+71. SS&C Blue Prism
+72. EdgeVerve
+73. Shield AI
+74. WorkFusion
+75. NICE
+76. Pega
+77. Gridspace
+78. Kore.ai
+79. Cognigy
+80. Amelia
+81. OneReach.ai
+82. Avaamo
+83. Yellow.ai
+84. boost.ai
+85. PathAI
+86. Viz.ai
+87. Paige AI
+88. Insilico Medicine
+89. Medtronic
+90. Enlitic
+91. Deepcell
+92. Activ Surgical
+93. Tempus Radiology
+94. Etcembly
+95. Corti
+96. Butterfly Network
+97. Owkin
+98. GE HealthCare
+99. Stryker
+100. Cleerly
+101. ClosedLoop
+102. Oncora Medical
+103. Atomwise
+104. Intuit
+105. Stripe
+106. Capital One
+107. Brighterion (Mastercard)
+108. Numerai
+109. Skyline AI (JLL)
+110. Ocrolus
+111. AlphaSense
+112. Zest AI
+113. Signifyd
+114. HighRadius
+115. DataVisor
+116. Carnegie Learning
+117. CENTURY
+118. ELSA
+119. Kidaptive (McGraw Hill)
+120. Amira Learning
+121. Duolingo
+122. Cognii
+123. Querium
+124. Squirrel AI Learning
+125. CrowdStrike
+126. Zscaler
+127. SentinelOne
+128. Abnormal Security
+129. Vectra AI
+130. Sophos
+131. Fortinet
+132. Palo Alto Networks
+133. Check Point
+134. SecurityScorecard
+135. Cylance AI (BlackBerry)
+136. BigPanda
+137. Shelf Engine
+138. Deep North
+139. Lowe’s
+140. Bloomreach
+141. Accenture
+142. Standard AI
+143. Lucyd Eyewear
+144. Veesual
+145. Companion
+146. Association for the Advancement of Artificial Intelligence
+147. AI4Diversity
+148. AI Infrastructure Alliance
+149. Partnership on AI
+150. Black in AI
+151. Machine Intelligence Research Institute (MIRI)
+152. AI Now Institute
+153. The Alan Turing Institute
+154. The Rockefeller Foundation
